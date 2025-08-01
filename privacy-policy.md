@@ -28,7 +28,7 @@ We collect only the following data necessary for extension functionality:
 - **API Key Management:** You can change or remove your API key anytime
 
 ## Contact
-For privacy questions, contact: [your-email@example.com]
+For privacy questions, contact: inandha97@gmail.com
 
 ## Changes to Policy
 We may update this policy. Changes will be posted on this page with updated effective date.
