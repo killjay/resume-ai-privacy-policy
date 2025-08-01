@@ -1,7 +1,6 @@
 # Privacy Policy for Resume AI Optimizer
 
 **Effective Date:** 1st Aug 2025
-**Last Modified Date:** August 2025
 
 ## Data We Collect
 We collect only the following data necessary for extension functionality:
