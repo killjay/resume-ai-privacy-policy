@@ -1,8 +1,4 @@
-# resume-ai-privacy-policy
-Privacy policy for Resume AI Optimizer Chrome extension - AI-powered resume optimization tool
-
 # Resume AI Optimizer - Privacy Policy Repository
-
 This repository contains the privacy policy for the **Resume AI Optimizer** Chrome extension.
 
 ## About the Extension
