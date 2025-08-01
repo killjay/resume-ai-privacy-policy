@@ -20,12 +20,8 @@ Resume AI Optimizer is an AI-powered Chrome extension that helps job seekers opt
 - ✅ No third-party data sharing
 - ✅ GDPR compliant design
 
-## Links
-- [Chrome Web Store](your-extension-link-here) *(Add when published)*
-- [Support & Documentation](your-docs-link) *(Optional)*
-
 ## Contact
-For privacy questions or extension support: **[your-email@example.com]**
+For privacy questions or extension support: **inandha97@gmail.com**
 
 ---
-*Last updated: December 2024*
+*Last updated: August 2025*
